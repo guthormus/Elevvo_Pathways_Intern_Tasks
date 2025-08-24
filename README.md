@@ -1,6 +1,6 @@
 # Elevvo Internship: Data Science & Machine Learning Projects
 
-This repository contains a collection of data science and machine learning projects developed during my internship at Elevvo. These projects demonstrate a range of skills in areas including supervised learning (regression and classification), unsupervised learning (clustering), deep learning for computer vision, and recommender systems.
+This repository contains a collection of data science and machine learning projects developed during my internship at Elevvo. These projects demonstrate a range of skills in areas including supervised learning (regression and classification), unsupervised learning (clustering), deep learning for computer vision, and recommender systems. (by me: Mohamed Essam M. Elsayed)
 
 ## Projects Overview
 
